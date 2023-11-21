@@ -12,7 +12,7 @@ Seçilen ürünün detaylarını çekme (başlık, fiyat, değerlendirme).
 
 
 tr_amazon_web_scraping.ipynb
-Bu Jupyter Notebook dosyası, tr_amazon_web_scraping-tutorial dosyasında gösterilen adımları içeren bir Python betiğini içerir. Ayrıca, çeşitli fonksiyonları içerir:
+Bu Jupyter Notebook dosyası, tr_amazon_web_scraping-tutorial dosyasında gösterilen adımları içeren bir Python kodunu içerir. Ayrıca, çeşitli fonksiyonları içerir:
 
 get_product_title: Ürün başlığını çekme.
 get_product_price: Ürün fiyatını çekme.
